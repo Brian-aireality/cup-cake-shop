@@ -1,0 +1,30 @@
+body {
+  background-color: lightpink;
+}
+
+.top {
+  text-align: center;
+  font-size: 60px;
+  color: red;
+  background-color: white;
+  border: 20px;
+  border-color: red;
+  margin: 20px, 100px, 10px, 10px;
+  padding: 50px;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h2 {
+  text-align: center;
+}
+
+.main {
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
